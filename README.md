@@ -18,4 +18,4 @@ Here I break down how solar energy powers electric vehicles — from the photovo
 to visualize every layer of a solar-powered car — from sunlight to motion — in a way that actually makes sense.
 
 ## 🛠️ author
-*Safial* — visualizing engineering one system at a time.
+*Safial* 
